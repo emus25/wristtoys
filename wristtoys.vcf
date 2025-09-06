@@ -3,10 +3,10 @@ VERSION:3.0
 N;CHARSET=UTF-8:;Wrist Toys;; ;
 FN: Wrist Toys
 ORG:Balaj
-COMPANY:Balaj
+COMPANY:Pre Owned Luxury Watches
 TITLE:
 
-ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;
+ADR;CHARSET=UTF-8;TYPE=WORK:;;32 Hatton Garden, London EC1N 8DH;;;;
 TEL;TYPE=Work,pref:+447377471360
 TEL;CELL;TYPE=Mobile,VOICE:
 TEL;TYPE=WORK,VOICE:
@@ -28,7 +28,7 @@ URL;TYPE=Website:
 
 URL;TYPE=Calendar:
 URL;TYPE=WhatsApp:https://wa.me/+447377471360
-URL;TYPE=WeChat:
+
 
 URL;TYPE=Instagram:https://www.instagram.com/wristtoysuk
 
